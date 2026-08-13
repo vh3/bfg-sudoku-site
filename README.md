@@ -7,6 +7,9 @@ Public static pages for **BFG Sudoku** App Store / TestFlight fields:
 | Home | [`index.html`](index.html) | Short product blurb |
 | Support | [`support.html`](support.html) | Support contact |
 | Privacy | [`privacy.html`](privacy.html) | Privacy Policy |
+| Accueil (FR) | [`index-fr.html`](index-fr.html) | Blurb French (Canada) |
+| Assistance (FR) | [`support-fr.html`](support-fr.html) | Support FR — App Store FR Support URL |
+| Confidentialité (FR) | [`privacy-fr.html`](privacy-fr.html) | Privacy FR — App Store FR Privacy URL |
 
 **Support email:** bfgames.support@gmail.com
 
@@ -17,6 +20,9 @@ After Pages is enabled from the `main` branch root:
 - Home: https://vh3.github.io/bfg-sudoku-site/
 - Support: https://vh3.github.io/bfg-sudoku-site/support.html
 - Privacy: https://vh3.github.io/bfg-sudoku-site/privacy.html
+- Accueil (FR): https://vh3.github.io/bfg-sudoku-site/index-fr.html
+- Assistance (FR): https://vh3.github.io/bfg-sudoku-site/support-fr.html
+- Confidentialité (FR): https://vh3.github.io/bfg-sudoku-site/privacy-fr.html
 
 These URLs are the App Store Connect Support URL and Privacy Policy URL sources. The private iOS source repository must not be used for those fields.
 
