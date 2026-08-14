@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0.0",
+  "configID": "app_config_v1",
+  "publishedAt": "2026-08-14T00:00:00Z",
+  "contentBaseURL": "https://vh3.github.io/bfg-sudoku-site/content/",
+  "puzzlePackFilenames": [],
+  "dailyAssignmentFilename": null,
+  "featureFlags": {
+    "plusContentEnabled": false
+  }
+}
